@@ -1,0 +1,49 @@
+import pyshark as ps
+from tabulate import tabulate
+import numpy as np
+
+headers=['Number Of Packet', 'Start Time', 'Source MAC Address', 'Destination MAC Address', 'Source IP Address',
+        'Destination IP Address', 'Visited in', 'Status code is', 'Arrived to this site from']
+
+
+i=0
+
+
+
+def packet_captured(packet):
+
+    global matrix
+
+    matrix = np.array([['', '', '', '', '', '', '', '', '']])
+
+    if ("Host:" in str(packet.http)) and (str(packet.http)[(str(packet.http).index("Host"))-1] == "	"):
+        host = str(packet.http.host)
+    else:
+        host = ''
+    if "Status Code" in str(packet.http):
+        res_code = str(packet.http.response_code)
+    else:
+        res_code = ''
+    if "Referer:" in str(packet.http):
+        ref = str(packet.http.referer)
+    else:
+        ref = ''
+
+    matrix=np.vstack([matrix, [str(i+1), str(packet.sniff_time), str(packet.eth.dst), str(packet.eth.src), str(packet.ip.src),
+                                  str(packet.ip.dst), host , res_code, ref]])
+
+cap = ps.LiveCapture(interface='en1', display_filter='http')
+cap.sniff(timeout=50)
+
+i = i + 1
+cap.apply_on_packets(packet_captured, i)
+
+#cap = ps.FileCapture('/Users/shironbabi/test.pcapng', display_filter='http')
+
+
+
+
+
+f2 = open('/Users/shironbabi/table.txt' , 'w')
+
+f2.write(tabulate(matrix, headers))
