@@ -1,0 +1,347 @@
+17:46:54 - 10-08-17MotherFucker
+18:06:38 - 10-08-17  Write This Now
+12:30:25 - 15-08-17 INFO  Starting New Import 
+ --------------------------
+12:30:25 - 15-08-17 INFO  New Checking beurer Folder
+12:30:25 - 15-08-17 INFO  This File Exist:  csv-files-br-2017-07-05.tar.gz
+12:30:25 - 15-08-17 INFO  Days This File Open:  40.0
+12:30:25 - 15-08-17 INFO  This File Exist:  csv-files-br-2017-07-12.tar.gz
+12:30:25 - 15-08-17 INFO  Days This File Open:  33.0
+12:30:25 - 15-08-17 INFO  This File Exist:  csv-files-br-2017-07-19.tar.gz
+12:30:25 - 15-08-17 INFO  Days This File Open:  26.0
+12:30:25 - 15-08-17 INFO  This File Exist:  csv-files-br-2017-07-26.tar.gz
+12:30:25 - 15-08-17 INFO  Days This File Open:  19.0
+12:30:25 - 15-08-17 INFO  This File Exist:  csv-files-br-2017-08-02.tar.gz
+12:30:25 - 15-08-17 INFO  Days This File Open:  12.0
+12:30:25 - 15-08-17 INFO  This File Exist:  csv-files-br-2017-08-09.tar.gz
+12:30:25 - 15-08-17 INFO  Days This File Open:  5.0
+12:30:25 - 15-08-17 INFO  This File Exist:  StatisticsSummary-brr-.csv
+12:30:25 - 15-08-17 INFO  Days This File Open:  5.0
+12:30:25 - 15-08-17 INFO  This File Exist:  StatisticsSummary-brr-2017-03-29.csv
+12:30:25 - 15-08-17 INFO  Days This File Open:  12.0
+12:30:25 - 15-08-17 INFO  This File Exist:  StatisticsSummary-brr-2017-07-03.csv
+12:30:25 - 15-08-17 INFO  Days This File Open:  43.0
+12:30:25 - 15-08-17 INFO  This File Exist:  StatisticsSummary-brr-2017-07-10.csv
+12:30:25 - 15-08-17 INFO  Days This File Open:  36.0
+12:30:25 - 15-08-17 INFO  This File Exist:  StatisticsSummary-brr-2017-07-17.csv
+12:30:25 - 15-08-17 INFO  Days This File Open:  29.0
+12:30:25 - 15-08-17 INFO  This File Exist:  StatisticsSummary-brr-2017-07-24.csv
+12:30:25 - 15-08-17 INFO  Days This File Open:  22.0
+12:30:25 - 15-08-17 INFO  This File Exist:  StatisticsSummary-brr-2017-07-31.csv
+12:30:25 - 15-08-17 INFO  Days This File Open:  15.0
+12:30:25 - 15-08-17 INFO  This File Exist:  StatisticsSummary-brr-2017-08-07 - Copy.csv
+12:30:25 - 15-08-17 INFO  Days This File Open:  5.0
+12:30:25 - 15-08-17 INFO  This File Exist:  StatisticsSummary-brr-2017-08-07.csv
+12:30:25 - 15-08-17 INFO  Days This File Open:  5.0
+12:30:25 - 15-08-17 INFO  This File Exist:  StatisticsSummary-brr-2017-08-14.csv
+12:30:25 - 15-08-17 INFO  Days This File Open:  1.0
+12:30:25 - 15-08-17 INFO  I found StatisticsSummary-brr-.csv suitable - Copying Now
+12:30:25 - 15-08-17 INFO  Starting Deletion beurerPart In DB
+12:30:25 - 15-08-17 WARN  DELETE FROM MYSQL ACCORDING TO THE FOLLOWING COMMANDS:  DELETE FROM grafana.live_reports WHERE partner='beurer'
+12:30:26 - 15-08-17 INFO  DB IS READY
+12:30:26 - 15-08-17 INFO  Reconnection to DB established
+12:30:26 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 439
+12:30:27 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 440
+12:30:27 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 441
+12:30:27 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 442
+12:30:27 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 443
+12:30:27 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 444
+12:30:28 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 445
+12:30:28 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 446
+12:30:28 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 447
+12:30:28 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 448
+12:30:28 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 449
+12:30:28 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 450
+12:30:28 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 451
+12:30:28 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 452
+12:30:28 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 453
+12:30:28 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 454
+12:30:28 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 455
+12:30:28 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 456
+12:30:28 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 457
+12:30:28 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 458
+12:30:28 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 459
+12:30:28 - 15-08-17 INFO  Done With beurer
+12:30:28 - 15-08-17 INFO  I found StatisticsSummary-brr-2017-08-14.csv suitable - Copying Now
+12:30:28 - 15-08-17 INFO  Starting Deletion beurerPart In DB
+12:30:28 - 15-08-17 WARN  DELETE FROM MYSQL ACCORDING TO THE FOLLOWING COMMANDS:  DELETE FROM grafana.live_reports WHERE partner='beurer'
+12:30:28 - 15-08-17 INFO  DB IS READY
+12:30:28 - 15-08-17 INFO  Reconnection to DB established
+12:30:28 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 439
+12:30:29 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 440
+12:30:29 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 441
+12:30:29 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 442
+12:30:29 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 443
+12:30:29 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 444
+12:30:29 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 445
+12:30:29 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 446
+12:30:29 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 447
+12:30:29 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 448
+12:30:29 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 449
+12:30:29 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 450
+12:30:29 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 451
+12:30:29 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 452
+12:30:29 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 453
+12:30:29 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 454
+12:30:29 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 455
+12:30:29 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 456
+12:30:29 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 457
+12:30:29 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 458
+12:30:29 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 459
+12:30:29 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 460
+12:30:30 - 15-08-17 INFO  Done With beurer
+12:30:30 - 15-08-17 INFO  I will delete this file StatisticsSummary-brr-2017-03-29.csv
+12:30:30 - 15-08-17 INFO  I will delete this file StatisticsSummary-brr-2017-07-31.csv
+12:30:30 - 15-08-17 INFO  I will delete this file StatisticsSummary-brr-2017-08-07.csv
+12:30:30 - 15-08-17 INFO  New Checking live Folder
+12:30:30 - 15-08-17 INFO  This File Exist:  .csv-files-lv-2017-05-24.tar.gz.01HMpw
+12:30:30 - 15-08-17 INFO  Days This File Open:  26.0
+12:30:30 - 15-08-17 INFO  This File Exist:  .csv-files-lv-2017-06-14.tar.gz.aLx8g1
+12:30:30 - 15-08-17 INFO  Days This File Open:  5.0
+12:30:30 - 15-08-17 INFO  This File Exist:  .csv-files-lv-2017-07-05.tar.gz.9EZmFg
+12:30:30 - 15-08-17 INFO  Days This File Open:  12.0
+12:30:30 - 15-08-17 INFO  This File Exist:  all.xlsx.gz
+12:30:30 - 15-08-17 INFO  Days This File Open:  138.0
+12:30:30 - 15-08-17 INFO  This File Exist:  csv-files-lv-2017-05-03.tar.gz
+12:30:30 - 15-08-17 INFO  Days This File Open:  12.0
+12:30:30 - 15-08-17 INFO  This File Exist:  csv-files-lv-2017-05-10.tar.gz
+12:30:30 - 15-08-17 INFO  Days This File Open:  12.0
+12:30:30 - 15-08-17 INFO  This File Exist:  csv-files-lv-2017-05-17.tar.gz
+12:30:30 - 15-08-17 INFO  Days This File Open:  12.0
+12:30:30 - 15-08-17 INFO  This File Exist:  csv-files-lv-2017-05-24.tar.gz
+12:30:30 - 15-08-17 INFO  Days This File Open:  12.0
+12:30:30 - 15-08-17 INFO  This File Exist:  csv-files-lv-2017-05-31.tar.gz
+12:30:30 - 15-08-17 INFO  Days This File Open:  12.0
+12:30:30 - 15-08-17 INFO  This File Exist:  csv-files-lv-2017-06-07.tar.gz
+12:30:30 - 15-08-17 INFO  Days This File Open:  12.0
+12:30:30 - 15-08-17 INFO  This File Exist:  csv-files-lv-2017-06-14.tar.gz
+12:30:30 - 15-08-17 INFO  Days This File Open:  12.0
+12:30:30 - 15-08-17 INFO  This File Exist:  csv-files-lv-2017-06-21.tar.gz
+12:30:30 - 15-08-17 INFO  Days This File Open:  12.0
+12:30:30 - 15-08-17 INFO  This File Exist:  csv-files-lv-2017-06-28.tar.gz
+12:30:30 - 15-08-17 INFO  Days This File Open:  12.0
+12:30:30 - 15-08-17 INFO  This File Exist:  csv-files-lv-2017-07-05.tar.gz
+12:30:30 - 15-08-17 INFO  Days This File Open:  40.0
+12:30:30 - 15-08-17 INFO  This File Exist:  csv-files-lv-2017-07-12.tar.gz
+12:30:30 - 15-08-17 INFO  Days This File Open:  29.0
+12:30:30 - 15-08-17 INFO  This File Exist:  csv-files-lv-2017-07-19.tar.gz
+12:30:30 - 15-08-17 INFO  Days This File Open:  22.0
+12:30:30 - 15-08-17 INFO  This File Exist:  csv-files-lv-2017-07-26.tar.gz
+12:30:30 - 15-08-17 INFO  Days This File Open:  19.0
+12:30:30 - 15-08-17 INFO  This File Exist:  csv-files-lv-2017-08-02.tar.gz
+12:30:30 - 15-08-17 INFO  Days This File Open:  8.0
+12:30:30 - 15-08-17 INFO  This File Exist:  csv-files-lv-2017-08-09.tar.gz
+12:30:30 - 15-08-17 INFO  Days This File Open:  1.0
+12:30:30 - 15-08-17 INFO  This File Exist:  StatisticsSummary-liv-2017-03-29.csv
+12:30:30 - 15-08-17 INFO  Days This File Open:  12.0
+12:30:30 - 15-08-17 INFO  This File Exist:  StatisticsSummary-liv-2017-04-05.csv
+12:30:30 - 15-08-17 INFO  Days This File Open:  12.0
+12:30:30 - 15-08-17 INFO  This File Exist:  StatisticsSummary-liv-2017-04-10.csv
+12:30:30 - 15-08-17 INFO  Days This File Open:  12.0
+12:30:30 - 15-08-17 INFO  This File Exist:  StatisticsSummary-liv-2017-04-17.csv
+12:30:30 - 15-08-17 INFO  Days This File Open:  12.0
+12:30:30 - 15-08-17 INFO  This File Exist:  StatisticsSummary-liv-2017-04-24.csv
+12:30:30 - 15-08-17 INFO  Days This File Open:  12.0
+12:30:30 - 15-08-17 INFO  This File Exist:  StatisticsSummary-liv-2017-04-30.csv
+12:30:30 - 15-08-17 INFO  Days This File Open:  12.0
+12:30:30 - 15-08-17 INFO  This File Exist:  StatisticsSummary-liv-2017-05-01.csv
+12:30:30 - 15-08-17 INFO  Days This File Open:  12.0
+12:30:30 - 15-08-17 INFO  This File Exist:  StatisticsSummary-liv-2017-05-08.csv
+12:30:30 - 15-08-17 INFO  Days This File Open:  12.0
+12:30:30 - 15-08-17 INFO  This File Exist:  StatisticsSummary-liv-2017-05-15.csv
+12:30:30 - 15-08-17 INFO  Days This File Open:  12.0
+12:30:30 - 15-08-17 INFO  This File Exist:  StatisticsSummary-liv-2017-05-22.csv
+12:30:30 - 15-08-17 INFO  Days This File Open:  12.0
+12:30:30 - 15-08-17 INFO  This File Exist:  StatisticsSummary-liv-2017-05-29.csv
+12:30:30 - 15-08-17 INFO  Days This File Open:  12.0
+12:30:30 - 15-08-17 INFO  This File Exist:  StatisticsSummary-liv-2017-06-05.csv
+12:30:30 - 15-08-17 INFO  Days This File Open:  12.0
+12:30:30 - 15-08-17 INFO  This File Exist:  StatisticsSummary-liv-2017-06-14.csv
+12:30:30 - 15-08-17 INFO  Days This File Open:  12.0
+12:30:30 - 15-08-17 INFO  This File Exist:  StatisticsSummary-liv-2017-06-19.csv
+12:30:30 - 15-08-17 INFO  Days This File Open:  12.0
+12:30:30 - 15-08-17 INFO  This File Exist:  StatisticsSummary-liv-2017-06-26.csv
+12:30:30 - 15-08-17 INFO  Days This File Open:  12.0
+12:30:30 - 15-08-17 INFO  This File Exist:  StatisticsSummary-liv-2017-07-03.csv
+12:30:30 - 15-08-17 INFO  Days This File Open:  43.0
+12:30:30 - 15-08-17 INFO  This File Exist:  StatisticsSummary-liv-2017-07-10.csv
+12:30:30 - 15-08-17 INFO  Days This File Open:  36.0
+12:30:30 - 15-08-17 INFO  This File Exist:  StatisticsSummary-liv-2017-07-17.csv
+12:30:30 - 15-08-17 INFO  Days This File Open:  29.0
+12:30:30 - 15-08-17 INFO  This File Exist:  StatisticsSummary-liv-2017-07-24.csv
+12:30:30 - 15-08-17 INFO  Days This File Open:  22.0
+12:30:30 - 15-08-17 INFO  This File Exist:  StatisticsSummary-liv-2017-07-31.csv
+12:30:30 - 15-08-17 INFO  Days This File Open:  15.0
+12:30:30 - 15-08-17 INFO  This File Exist:  StatisticsSummary-liv-2017-08-07.csv
+12:30:30 - 15-08-17 INFO  Days This File Open:  8.0
+12:30:30 - 15-08-17 INFO  This File Exist:  StatisticsSummary-liv-2017-08-14.csv
+12:30:30 - 15-08-17 INFO  Days This File Open:  1.0
+12:30:30 - 15-08-17 INFO  I found StatisticsSummary-liv-2017-08-14.csv suitable - Copying Now
+12:30:30 - 15-08-17 INFO  Starting Deletion livePart In DB
+12:30:30 - 15-08-17 WARN  DELETE FROM MYSQL ACCORDING TO THE FOLLOWING COMMANDS:  DELETE FROM grafana.live_reports WHERE partner='live'
+12:30:30 - 15-08-17 INFO  DB IS READY
+12:30:30 - 15-08-17 INFO  Reconnection to DB established
+12:30:30 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 461
+12:30:30 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 462
+12:30:30 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 463
+12:30:30 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 464
+12:30:30 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 465
+12:30:30 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 466
+12:30:30 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 467
+12:30:30 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 468
+12:30:30 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 469
+12:30:30 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 470
+12:30:30 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 471
+12:30:30 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 472
+12:30:31 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 473
+12:30:31 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 474
+12:30:31 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 475
+12:30:31 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 476
+12:30:31 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 477
+12:30:31 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 478
+12:30:31 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 479
+12:30:31 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 480
+12:30:31 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 481
+12:30:31 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 482
+12:30:31 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 483
+12:30:31 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 484
+12:30:31 - 15-08-17 INFO  Done With live
+12:30:31 - 15-08-17 INFO  I will delete this file StatisticsSummary-liv-2017-03-29.csv
+12:30:31 - 15-08-17 INFO  I will delete this file StatisticsSummary-liv-2017-04-05.csv
+12:30:31 - 15-08-17 INFO  I will delete this file StatisticsSummary-liv-2017-04-10.csv
+12:30:31 - 15-08-17 INFO  I will delete this file StatisticsSummary-liv-2017-04-17.csv
+12:30:31 - 15-08-17 INFO  I will delete this file StatisticsSummary-liv-2017-04-24.csv
+12:30:31 - 15-08-17 INFO  I will delete this file StatisticsSummary-liv-2017-04-30.csv
+12:30:31 - 15-08-17 INFO  I will delete this file StatisticsSummary-liv-2017-05-01.csv
+12:30:31 - 15-08-17 INFO  I will delete this file StatisticsSummary-liv-2017-05-08.csv
+12:30:31 - 15-08-17 INFO  I will delete this file StatisticsSummary-liv-2017-05-15.csv
+12:30:31 - 15-08-17 INFO  I will delete this file StatisticsSummary-liv-2017-05-22.csv
+12:30:31 - 15-08-17 INFO  I will delete this file StatisticsSummary-liv-2017-05-29.csv
+12:30:31 - 15-08-17 INFO  I will delete this file StatisticsSummary-liv-2017-06-05.csv
+12:30:31 - 15-08-17 INFO  I will delete this file StatisticsSummary-liv-2017-06-14.csv
+12:30:31 - 15-08-17 INFO  I will delete this file StatisticsSummary-liv-2017-06-19.csv
+12:30:31 - 15-08-17 INFO  I will delete this file StatisticsSummary-liv-2017-06-26.csv
+12:30:31 - 15-08-17 INFO  I will delete this file StatisticsSummary-liv-2017-07-31.csv
+12:30:31 - 15-08-17 INFO  I will delete this file StatisticsSummary-liv-2017-08-07.csv
+12:30:31 - 15-08-17 INFO  New Checking icn Folder
+12:30:31 - 15-08-17 INFO  This File Exist:  csv-files-ic-2017-07-05.tar.gz
+12:30:31 - 15-08-17 INFO  Days This File Open:  40.0
+12:30:31 - 15-08-17 INFO  This File Exist:  csv-files-ic-2017-07-12.tar.gz
+12:30:31 - 15-08-17 INFO  Days This File Open:  33.0
+12:30:31 - 15-08-17 INFO  This File Exist:  csv-files-ic-2017-07-19.tar.gz
+12:30:31 - 15-08-17 INFO  Days This File Open:  26.0
+12:30:31 - 15-08-17 INFO  This File Exist:  csv-files-ic-2017-07-26.tar.gz
+12:30:31 - 15-08-17 INFO  Days This File Open:  19.0
+12:30:31 - 15-08-17 INFO  This File Exist:  csv-files-ic-2017-08-02.tar.gz
+12:30:31 - 15-08-17 INFO  Days This File Open:  12.0
+12:30:31 - 15-08-17 INFO  This File Exist:  csv-files-ic-2017-08-09.tar.gz
+12:30:31 - 15-08-17 INFO  Days This File Open:  5.0
+12:30:31 - 15-08-17 INFO  This File Exist:  StatisticsSummary-icn-2017-03-29.csv
+12:30:31 - 15-08-17 INFO  Days This File Open:  12.0
+12:30:31 - 15-08-17 INFO  This File Exist:  StatisticsSummary-icn-2017-07-03.csv
+12:30:31 - 15-08-17 INFO  Days This File Open:  43.0
+12:30:31 - 15-08-17 INFO  This File Exist:  StatisticsSummary-icn-2017-07-10.csv
+12:30:31 - 15-08-17 INFO  Days This File Open:  36.0
+12:30:31 - 15-08-17 INFO  This File Exist:  StatisticsSummary-icn-2017-07-17.csv
+12:30:31 - 15-08-17 INFO  Days This File Open:  29.0
+12:30:31 - 15-08-17 INFO  This File Exist:  StatisticsSummary-icn-2017-07-24.csv
+12:30:31 - 15-08-17 INFO  Days This File Open:  22.0
+12:30:31 - 15-08-17 INFO  This File Exist:  StatisticsSummary-icn-2017-07-31.csv
+12:30:31 - 15-08-17 INFO  Days This File Open:  15.0
+12:30:31 - 15-08-17 INFO  This File Exist:  StatisticsSummary-icn-2017-08-07.csv
+12:30:31 - 15-08-17 INFO  Days This File Open:  8.0
+12:30:31 - 15-08-17 INFO  This File Exist:  StatisticsSummary-icn-2017-08-14.csv
+12:30:31 - 15-08-17 INFO  Days This File Open:  1.0
+12:30:31 - 15-08-17 INFO  This File Exist:  StatisticsSummary-vrl-2017-06-14.csv
+12:30:31 - 15-08-17 INFO  Days This File Open:  12.0
+12:30:31 - 15-08-17 INFO  I found StatisticsSummary-icn-2017-08-14.csv suitable - Copying Now
+12:30:31 - 15-08-17 INFO  Starting Deletion icnPart In DB
+12:30:31 - 15-08-17 WARN  DELETE FROM MYSQL ACCORDING TO THE FOLLOWING COMMANDS:  DELETE FROM grafana.live_reports WHERE partner='icn'
+12:30:31 - 15-08-17 INFO  DB IS READY
+12:30:31 - 15-08-17 INFO  Reconnection to DB established
+12:30:31 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 485
+12:30:31 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 486
+12:30:31 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 487
+12:30:31 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 488
+12:30:32 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 489
+12:30:32 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 490
+12:30:32 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 491
+12:30:32 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 492
+12:30:32 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 493
+12:30:32 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 494
+12:30:32 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 495
+12:30:32 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 496
+12:30:32 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 497
+12:30:32 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 498
+12:30:32 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 499
+12:30:32 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 500
+12:30:32 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 501
+12:30:32 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 502
+12:30:32 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 503
+12:30:32 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 504
+12:30:32 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 505
+12:30:32 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 506
+12:30:32 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 507
+12:30:32 - 15-08-17 INFO  Done With icn
+12:30:32 - 15-08-17 INFO  I will delete this file StatisticsSummary-icn-2017-03-29.csv
+12:30:32 - 15-08-17 INFO  I will delete this file StatisticsSummary-icn-2017-07-31.csv
+12:30:32 - 15-08-17 INFO  I will delete this file StatisticsSummary-icn-2017-08-07.csv
+12:30:32 - 15-08-17 INFO  I will delete this file StatisticsSummary-vrl-2017-06-14.csv
+12:30:32 - 15-08-17 INFO  New Checking verlo Folder
+12:30:32 - 15-08-17 INFO  This File Exist:  csv-files-vr-2017-07-05.tar.gz
+12:30:32 - 15-08-17 INFO  Days This File Open:  40.0
+12:30:32 - 15-08-17 INFO  This File Exist:  csv-files-vr-2017-07-12.tar.gz
+12:30:32 - 15-08-17 INFO  Days This File Open:  29.0
+12:30:32 - 15-08-17 INFO  This File Exist:  csv-files-vr-2017-07-19.tar.gz
+12:30:32 - 15-08-17 INFO  Days This File Open:  22.0
+12:30:32 - 15-08-17 INFO  This File Exist:  csv-files-vr-2017-07-26.tar.gz
+12:30:32 - 15-08-17 INFO  Days This File Open:  15.0
+12:30:32 - 15-08-17 INFO  This File Exist:  csv-files-vr-2017-08-02.tar.gz
+12:30:32 - 15-08-17 INFO  Days This File Open:  8.0
+12:30:32 - 15-08-17 INFO  This File Exist:  csv-files-vr-2017-08-09.tar.gz
+12:30:32 - 15-08-17 INFO  Days This File Open:  1.0
+12:30:32 - 15-08-17 INFO  This File Exist:  StatisticsSummary-vrl-2017-07-03.csv
+12:30:32 - 15-08-17 INFO  Days This File Open:  43.0
+12:30:32 - 15-08-17 INFO  This File Exist:  StatisticsSummary-vrl-2017-07-10.csv
+12:30:32 - 15-08-17 INFO  Days This File Open:  36.0
+12:30:32 - 15-08-17 INFO  This File Exist:  StatisticsSummary-vrl-2017-07-17.csv
+12:30:32 - 15-08-17 INFO  Days This File Open:  29.0
+12:30:32 - 15-08-17 INFO  This File Exist:  StatisticsSummary-vrl-2017-07-24.csv
+12:30:32 - 15-08-17 INFO  Days This File Open:  22.0
+12:30:32 - 15-08-17 INFO  This File Exist:  StatisticsSummary-vrl-2017-07-31.csv
+12:30:32 - 15-08-17 INFO  Days This File Open:  15.0
+12:30:32 - 15-08-17 INFO  This File Exist:  StatisticsSummary-vrl-2017-08-07.csv
+12:30:32 - 15-08-17 INFO  Days This File Open:  8.0
+12:30:32 - 15-08-17 INFO  This File Exist:  StatisticsSummary-vrl-2017-08-14.csv
+12:30:32 - 15-08-17 INFO  Days This File Open:  1.0
+12:30:32 - 15-08-17 INFO  I found StatisticsSummary-vrl-2017-08-14.csv suitable - Copying Now
+12:30:32 - 15-08-17 INFO  Starting Deletion verloPart In DB
+12:30:32 - 15-08-17 WARN  DELETE FROM MYSQL ACCORDING TO THE FOLLOWING COMMANDS:  DELETE FROM grafana.live_reports WHERE partner='verlo'
+12:30:32 - 15-08-17 INFO  DB IS READY
+12:30:32 - 15-08-17 INFO  Reconnection to DB established
+12:30:32 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 508
+12:30:33 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 509
+12:30:33 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 510
+12:30:33 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 511
+12:30:33 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 512
+12:30:33 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 513
+12:30:33 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 514
+12:30:33 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 515
+12:30:33 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 516
+12:30:33 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 517
+12:30:33 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 518
+12:30:33 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 519
+12:30:33 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 520
+12:30:33 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 521
+12:30:33 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 522
+12:30:33 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 523
+12:30:33 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 524
+12:30:33 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 525
+12:30:34 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 526
+12:30:34 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 527
+12:30:34 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 528
+12:30:34 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 529
+12:30:34 - 15-08-17 WARN  NOW INSERTING RECORD WITH ID: 530
+12:30:34 - 15-08-17 INFO  Done With verlo
+12:30:34 - 15-08-17 INFO  I will delete this file StatisticsSummary-vrl-2017-07-31.csv
+12:30:34 - 15-08-17 INFO  I will delete this file StatisticsSummary-vrl-2017-08-07.csv
